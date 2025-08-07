@@ -1,6 +1,6 @@
 const findDuplicates = (array) => {
   const seen = new Map();
-  const duplicates = [];
+  const duplicates: any[] = [];
 
   for (const item of array) {
     const key = JSON.stringify(item);
