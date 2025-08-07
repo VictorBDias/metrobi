@@ -1,0 +1,5 @@
+I remember this exercise in the algorithms class, 
+the main idea is to use the first egg to reduce your sample space, and with the second egg go 
+testing by iteration, for example if you throw the egg from floor 15 then increase, 
+for example to 30 and break on 30, then you use the second egg to iterate starting from 16 
+and increase untill the egg break.
