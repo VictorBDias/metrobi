@@ -2,6 +2,8 @@ import styled from 'styled-components';
 
 export const Container = styled.div``;
 
+// I basically just used it to make it easier to find myself within so many nameless divs
+
 export const Body = styled.div`
   width: 100%;
   height: 100%;
